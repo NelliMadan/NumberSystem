@@ -17,6 +17,12 @@ NumberSystem::NumberSystem(QWidget* pwgt)
     m_hexlabel = new QLabel("Hexadecimal", this);
     m_binlabel = new QLabel("Binary", this);
 
+
+
+
+
+    
+
     m_declabel->setStyleSheet("font: 18px");
     m_hexlabel->setStyleSheet("font: 18px");
     m_binlabel->setStyleSheet("font: 18px");
